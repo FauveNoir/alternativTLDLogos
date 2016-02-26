@@ -12,6 +12,8 @@ Alternative logos for Top Level Names in Creative Commons
 
 <img src="./tld-general/org.png"    width="100px" /> ([SVG](./tld-general/org.svg))
 
+<img src="./tld-general/wiki.png"   width="100px" /> ([SVG](./tld-general/wiki.svg))
+
 ##Sponsored
 
 ##Infrastructure

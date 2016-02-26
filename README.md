@@ -2,12 +2,12 @@
 Alternative logos for Top Level Names in Creative Commons
 
 ##General
-![.info.png](./info.png =100)
+<img src="./info.png" width="100px" />
 
-![.ninja.png](./ninja.png =100)
+<img src="./ninja.png" width="100px" />
 
-![.museum.png](./museum.png =100)
+<img src="./museum.png" width="100px" />
 
-![.com.png](./com.png =100)
+<img src="./com.png" width="100px" />
 
-![.org.png](./org.png =100)
+<img src="./org.png" width="100px" />

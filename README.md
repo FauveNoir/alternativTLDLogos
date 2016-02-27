@@ -22,11 +22,14 @@ The first time I had the idea of redesign a TLD logo, it was for my website with
 
 <img src="tld-general/wiki.png"   height="43px" /> ([SVG](tld-general/wiki.svg))
 
-###General
 ###Infrastructure
 ###Reserved
 ###Country code top-level domains
+<img src="ccTLD/be.png"   height="43px" /> ([SVG](ccTLD/be.svg))
+
 <img src="ccTLD/ma.png"   height="43px" /> ([SVG](ccTLD/ma.svg))
+
+<img src="ccTLD/us.png"   height="43px" /> ([SVG](ccTLD/us.svg))
 
 ##About README.md
 Please, do not modify this `README.md`, it is generated automaticly by `make` command, so your changes will be automaticly overighted. See `./makingreadme` directory in order to modify text.

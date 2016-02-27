@@ -6,7 +6,6 @@ readme:
 	echo "##Logos" >> README.md ;#
 	echo "###General" >> README.md ;#
 	for f in tld-general/*.png ; do TLDNAME=`echo $$f | sed -e 's/\.png$$//'` ; echo "<img src=\"$${TLDNAME}.png\"   height=\"43px\" /> ([SVG]($${TLDNAME}.svg))" >> README.md ; echo "" >> README.md  ; done ;
-	echo "###General" >> README.md ;#
 	echo "###Infrastructure" >> README.md;
 	echo "###Reserved" >> README.md;
 	echo "###Country code top-level domains" >> README.md;
